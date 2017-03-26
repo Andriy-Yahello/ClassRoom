@@ -1,0 +1,10 @@
+d:\app\my\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe.config
+D:\app\my\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe
+D:\app\my\ClassRoom\ClassRoom\bin\Debug\ClassRoom.pdb
+D:\app\my\ClassRoom\ClassRoom\obj\Debug\ClassRoom.exe
+D:\app\my\ClassRoom\ClassRoom\obj\Debug\ClassRoom.pdb
+C:\app\my\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe.config
+C:\app\my\ClassRoom\ClassRoom\obj\Debug\ClassRoom.exe
+C:\app\my\ClassRoom\ClassRoom\obj\Debug\ClassRoom.pdb
+C:\app\my\ClassRoom\ClassRoom\bin\Debug\ClassRoom.exe
+C:\app\my\ClassRoom\ClassRoom\bin\Debug\ClassRoom.pdb
